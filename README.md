@@ -7,6 +7,7 @@ Gesture-based game control
 Real-time hand tracking using MediaPipe
 Smooth and responsive gameplay
 Combines Computer Vision + Automation
+
 ---
 
 ## 📁 Folder Structure
