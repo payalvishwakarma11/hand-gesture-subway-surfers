@@ -2,12 +2,6 @@
 ### Control the game with your hand — no keyboard needed!
 A real-time AI-based system that lets you control Subway Surfers using hand gestures — no keyboard needed!
 
-Highlights
-Gesture-based game control
-Real-time hand tracking using MediaPipe
-Smooth and responsive gameplay
-Combines Computer Vision + Automation
-
 ---
 
 ## 📁 Folder Structure
