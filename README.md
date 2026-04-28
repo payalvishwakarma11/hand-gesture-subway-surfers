@@ -1,6 +1,12 @@
 # 🎮 Hand Gesture Subway Surfers Controller
 ### Control the game with your hand — no keyboard needed!
+# A real-time AI-based system that lets you control Subway Surfers using hand gestures — no keyboard needed!
 
+Highlights
+Gesture-based game control
+Real-time hand tracking using MediaPipe
+Smooth and responsive gameplay
+Combines Computer Vision + Automation
 ---
 
 ## 📁 Folder Structure
@@ -198,4 +204,11 @@ Subway Surfers → Character jumps!
 
 ---
 
-Made with ❤️ using MediaPipe + TensorFlow + OpenCV
+Made with using MediaPipe + TensorFlow + OpenCV
+---
+
+## 👩‍💻 About Me
+Hi, I'm **Payal Vishwakarma**, an AIML student passionate about building real-world AI projects.
+⭐ If you like this project
+Give it a ⭐ on GitHub!
+
